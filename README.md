@@ -1,5 +1,4 @@
 # Kiting-
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -72,7 +71,7 @@
   </style>
 </head>
 <body>
-  <h1>💖 Untuk Kamu, Cintaku 💖</h1>
+  <h1>💖 Untuk Ta kiting ku, Cintaku 💖</h1>
   <p>Terima kasih sudah selalu ada di sisiku. Aku akan mencintaimu selamanya 😘</p>
 
   <!-- Tombol I Love You -->
@@ -84,7 +83,7 @@
     Browser kamu tidak mendukung audio.
   </audio>
 
-  <footer>❤️ Selamanya Milikmu ❤️</footer>
+  <footer>❤️ pembuat #hedyr ❤️</footer>
 
   <script>
     // Hati jatuh otomatis
@@ -102,10 +101,8 @@
     // Tombol "I Love You" bikin hati tambahan + kata-kata romantis
     const loveBtn = document.getElementById("loveBtn");
     const kataRomantis = [
-      "Aku mencintaimu lebih dari kata-kata bisa ungkapkan 💖",
-      "Aku + Kamu = Selamanya ❤️",
-      "Kamu adalah bahagiaku setiap hari 😘",
-      "Setiap detik bersamamu terasa indah ✨",
+      "KUSAYANG KI 💖",
+      "Haidir + Hilda = Selamanya ❤️",
       "Aku bersyukur memilikimu di sisiku 💞"
     ];
 
