@@ -1,0 +1,18 @@
+# Di komputer, masuk ke folder project
+cd path/ke/website-cinta
+
+# Inisialisasi git
+git init
+
+# Tambahkan remote GitHub
+git remote add origin https://github.com/USERNAME/website-cinta.git
+
+# Tambahkan file
+git add .
+
+# Commit file
+git commit -m "Initial commit"
+
+# Push ke GitHub
+git branch -M main
+git push -u origin main
